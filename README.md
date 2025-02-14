@@ -24,6 +24,10 @@
 
 [lab_report_1.pdf](https://github.com/user-attachments/files/18803608/lab_report_1.pdf)
 
+Перевод +-:
+
+[lab_report_1.it.ru.pdf](https://github.com/user-attachments/files/18803763/lab_report_1.it.ru.pdf)
+
 У меня не получилось открыть .alp этого проекта:
 
 ![image](https://github.com/user-attachments/assets/91702b27-350f-448e-8ad4-52fe6230276a)

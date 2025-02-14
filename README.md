@@ -1,7 +1,7 @@
 # anylogic_model_supermarket
 ---
 # Супермаркет
-Побыстрому стырено из банка:
+Побыстрому стырено из банка(со статистикой и тд):
 
 ![image](https://github.com/user-attachments/assets/5957538c-6d2d-42e6-8c52-bf168a3953b1)
 ---
